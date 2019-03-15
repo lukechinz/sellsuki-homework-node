@@ -1,0 +1,24 @@
+{
+  "name": "sellsuki-homework-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lukechinz/sellsuki-homework-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukechinz/sellsuki-homework-node/issues"
+  },
+  "homepage": "https://github.com/lukechinz/sellsuki-homework-node#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
